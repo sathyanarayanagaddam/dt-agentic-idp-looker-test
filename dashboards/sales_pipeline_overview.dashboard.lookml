@@ -1,5 +1,3 @@
-#testing
-
 - dashboard: sales_pipeline_overview
   title: "Sales Pipeline Overview"
   layout: newspaper
